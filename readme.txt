@@ -11,6 +11,8 @@ Cuando hacés tu primer git push origin main, se abre una ventanita de GitHub �
 
 Después ya es:
 
+git init
+
 git add .
 
 git commit -m "mensaje"
